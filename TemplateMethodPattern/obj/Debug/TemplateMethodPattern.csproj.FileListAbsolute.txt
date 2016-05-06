@@ -1,0 +1,12 @@
+C:\Source\TemplateMethodPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+C:\Source\TemplateMethodPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+C:\Source\TemplateMethodPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+C:\Source\TemplateMethodPattern\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csprojResolveAssemblyReference.cache
+C:\Source\TemplateMethodPattern\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+C:\Source\TemplateMethodPattern\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
+C:\Source\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+C:\Source\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+C:\Source\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
+C:\Source\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+C:\Source\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+C:\Source\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csprojResolveAssemblyReference.cache
